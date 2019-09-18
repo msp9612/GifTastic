@@ -1,0 +1,32 @@
+/* Matt Petrower */
+
+body {
+    background-color: lightyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container-top {
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 30px;
+}
+
+.topic-button {
+    margin-right: 5px;
+}
+
+#topic-buttons {
+    margin-bottom: 10px;
+}
+
+#container-main {
+    margin-bottom: 30px;
+}
+
+p {
+    margin: 0;
+    font-weight: bold;
+}
